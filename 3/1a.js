@@ -1,5 +1,5 @@
 const path = require('path');
-const { getInput } = require('../helpers');
+const { getInput, validateAnswer } = require('../helpers');
 
 const lines = getInput(path.resolve(__dirname, './input'));
 
@@ -12,3 +12,5 @@ lines.forEach((line, lineIndex) => {
 });
 
 console.log(trees);
+
+console.log(validateAnswer(272, trees));

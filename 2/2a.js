@@ -1,5 +1,5 @@
 const path = require('path');
-const { getInput } = require('../helpers');
+const { getInput, validateAnswer } = require('../helpers');
 
 const lines = getInput(path.resolve(__dirname, './input'));
 
@@ -11,3 +11,5 @@ const validPasswords = lines.filter(item => {
     return (password.charAt(firstPos-1) === ruleLetter) ^ (password.charAt(secondPos-1) === ruleLetter);
 });
 console.log(validPasswords.length);
+
+console.log(validateAnswer(404, validPasswords.length));

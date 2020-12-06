@@ -1,8 +1,7 @@
-const fs = require('fs');
+const path = require('path');
+const { getInput, validateAnswer } = require('../helpers');
 
-let list = fs.readFileSync('./input', {encoding: 'utf8'});
-
-list = list.split('\r\n');
+const list = getInput(path.resolve(__dirname, './input'));
 
 const multipliers = [];
 list.forEach(first => {
@@ -18,3 +17,5 @@ list.forEach(first => {
 console.log({multipliers});
 const product = multipliers[0]*multipliers[1];
 console.log({product});
+
+console.log(validateAnswer(1019571, product));

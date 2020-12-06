@@ -1,5 +1,5 @@
 const path = require('path');
-const { getInput, numArrayProduct } = require('../helpers');
+const { getInput, numArrayProduct, validateAnswer } = require('../helpers');
 
 const lines = getInput(path.resolve(__dirname, './input'));
 const slopes = [
@@ -22,4 +22,6 @@ const treesPerSlope = slopes.map(slope => {
 });
 
 console.log({treesPerSlope});
-console.log('treesPerSlopes product: ', numArrayProduct(treesPerSlope));
+const answer = numArrayProduct(treesPerSlope)
+console.log('treesPerSlopes product: ', answer);
+console.log(validateAnswer(3898725600, answer));
