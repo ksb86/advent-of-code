@@ -5,6 +5,7 @@ const newLineString = process.platform === "win32" ? '\r\n' : '\n';
 module.exports = {
     getInput,
     numArrayProduct,
+    numArraySum,
     newLineString,
     validateAnswer,
 };
@@ -23,6 +24,13 @@ function numArrayProduct(numArray) {
         product*=num;
         return product;
     }, 1);
+};
+
+function numArraySum(numArray) {
+    return numArray.reduce((sum, num) => {
+        sum+=num;
+        return sum;
+    }, 0);
 };
 
 function validateAnswer(expected, actual) {
