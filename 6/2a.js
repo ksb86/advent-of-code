@@ -1,6 +1,15 @@
 const path = require('path');
-const { getInput, validateAnswer } = require('../helpers');
+const { getInput, newLineString, numArraySum, validateAnswer } = require('../helpers');
 
-const lines = getInput(path.resolve(__dirname, './input'));
+const input = getInput(path.resolve(__dirname, './input'), true);
 
-// console.log(validateAnswer(, ));
+const groups = input.split(`${newLineString}${newLineString}`);
+
+const cleanedDeduppedGroups = groups.forEach(group => {
+    const person = group.split(/\s/gi);
+    console.log({person});
+    // return [...new Set(cleanedLetterArray)].length;
+});
+const sumOfUniqueQuestionCounts = numArraySum(cleanedDeduppedGroups);
+console.log({sumOfUniqueQuestionCounts});
+// console.log(validateAnswer(6534, sumOfUniqueQuestionCounts));
