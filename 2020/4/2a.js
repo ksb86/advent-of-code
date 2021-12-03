@@ -1,5 +1,5 @@
 const path = require('path');
-const { getInput, newLineString, validateAnswer } = require('../helpers');
+const { getInput, newLineString, validateAnswer } = require('../../helpers');
 
 const fieldRules = [
     {

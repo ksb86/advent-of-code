@@ -1,5 +1,5 @@
 const path = require('path');
-const { getInput, newLineString, numArraySum, validateAnswer } = require('../helpers');
+const { getInput, newLineString, numArraySum, validateAnswer } = require('../../helpers');
 
 const input = getInput(path.resolve(__dirname, './input'), true);
 

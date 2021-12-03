@@ -1,5 +1,5 @@
 const path = require('path');
-const { getInput, validateAnswer } = require('../helpers');
+const { getInput, validateAnswer } = require('../../helpers');
 
 const lines = getInput(path.resolve(__dirname, './input'));
 const rows = [...Array(128).keys()];

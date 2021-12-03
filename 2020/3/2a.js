@@ -1,5 +1,5 @@
 const path = require('path');
-const { getInput, numArrayProduct, validateAnswer } = require('../helpers');
+const { getInput, numArrayProduct, validateAnswer } = require('../../helpers');
 
 const lines = getInput(path.resolve(__dirname, './input'));
 const slopes = [
