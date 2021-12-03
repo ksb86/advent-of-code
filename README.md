@@ -1,1 +1,1 @@
-# Node.js advent-of-code-2020
+# Node.js advent-of-code
