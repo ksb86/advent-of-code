@@ -1,0 +1,11 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ksb86/advent-of-code.git",
+  "author": "Shane Barnwell <ksbarnwell@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
