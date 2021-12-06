@@ -29,6 +29,6 @@ while (day < stopDay) {
 const totalFish = ageCounts.reduce((acc, curr) => {
     return acc += curr;
 }, 0);
-console.log({totalFish});
 
+console.log({totalFish});
 console.log(validateAnswer(362346, totalFish));
