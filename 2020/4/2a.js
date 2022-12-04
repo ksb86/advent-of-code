@@ -68,7 +68,7 @@ const isPassportValid = (passportObj) => {
     });
 };
 
-const lines = getInput(path.resolve(__dirname, './input'), true);
+const lines = getInput(path.resolve(__dirname, './input'), { readAsString: true });
 
 // split by double line breaks into single passports
 const passports = lines.split(`${newLineString}${newLineString}`);

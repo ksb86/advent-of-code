@@ -12,7 +12,7 @@ const requiredFields = [
     // 'cid',
 ];
 
-const lines = getInput(path.resolve(__dirname, './input'), true);
+const lines = getInput(path.resolve(__dirname, './input'), { readAsString: true });
 
 const passports = lines.split(`${newLineString}${newLineString}`);
 

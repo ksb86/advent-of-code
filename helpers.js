@@ -11,12 +11,12 @@ module.exports = {
 };
 
 
-function getInput(path, readAsString) {
+function getInput(path, {readAsString = false, splitTwoLines = false} = {}) {
     let list = fs.readFileSync(path, {encoding: 'utf8'});
     if (readAsString) {
         return list;
     }
-    return list.split(newLineString);
+    return list.split(splitTwoLines ? `${newLineString}${newLineString}` : newLineString);
 };
 
 function numArrayProduct(numArray) {

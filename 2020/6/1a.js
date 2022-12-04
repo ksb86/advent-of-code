@@ -1,7 +1,7 @@
 const path = require('path');
 const { getInput, newLineString, numArraySum, validateAnswer } = require('../../helpers');
 
-const input = getInput(path.resolve(__dirname, './input'), true);
+const input = getInput(path.resolve(__dirname, './input'), { readAsString: true });
 
 const groups = input.split(`${newLineString}${newLineString}`);
 

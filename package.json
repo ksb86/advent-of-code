@@ -6,6 +6,7 @@
   "author": "Shane Barnwell <ksbarnwell@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.20"
   }
 }

@@ -1,7 +1,7 @@
 const path = require("path");
 const { getInput, validateAnswer } = require("../../helpers");
 
-let [calledNumbers, ...boards] = getInput(path.resolve(__dirname, "./input.txt"), true).split('\n\n');
+let [calledNumbers, ...boards] = getInput(path.resolve(__dirname, "./input.txt"), { readAsString: true }).split('\n\n');
 let winner;
 let lastCalledNumber;
 const winningIndexes = [
