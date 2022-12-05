@@ -34,7 +34,5 @@ let allParents = flatten(getParentBagNames('shiny gold'));
 console.log('allParents: ', allParents.length);
 console.log('allParents dedupped: ', [...new Set(allParents)].length);
 
-// NOT 6
-// NOT 104
-// somwhere here
-// NOT 392
+// 108 too low
+// 245 too high
