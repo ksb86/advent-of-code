@@ -18,4 +18,4 @@ console.log({multipliers});
 const product = multipliers[0]*multipliers[1];
 console.log({product});
 
-console.log(validateAnswer(1019571, product));
+console.log(validateAnswer(800139, product));

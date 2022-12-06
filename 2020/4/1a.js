@@ -29,4 +29,4 @@ const validPassports = passports.reduce((acc, curr) => {
 
 console.log({validPassports});
 
-console.log(validateAnswer(216, validPassports));
+console.log(validateAnswer(264, validPassports));

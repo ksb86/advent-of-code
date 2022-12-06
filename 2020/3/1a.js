@@ -13,4 +13,4 @@ lines.forEach((line, lineIndex) => {
 
 console.log(trees);
 
-console.log(validateAnswer(272, trees));
+console.log(validateAnswer(156, trees));

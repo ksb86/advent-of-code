@@ -1,9 +1,7 @@
 const path = require('path');
 const { getInput, newLineString, numArraySum, validateAnswer } = require('../../helpers');
 
-const input = getInput(path.resolve(__dirname, './input'), { readAsString: true });
-
-const groups = input.split(`${newLineString}${newLineString}`);
+const groups = getInput(path.resolve(__dirname, './input'), { splitTwoLines: true });
 
 const cleanedDeduppedGroups = groups.map(group => {
     const cleanedLetterArray = group.replace(/\s/gi, '').split('');
@@ -11,4 +9,4 @@ const cleanedDeduppedGroups = groups.map(group => {
 });
 const sumOfUniqueQuestionCounts = numArraySum(cleanedDeduppedGroups);
 console.log({sumOfUniqueQuestionCounts});
-console.log(validateAnswer(6534, sumOfUniqueQuestionCounts));
+console.log(validateAnswer(6291, sumOfUniqueQuestionCounts));

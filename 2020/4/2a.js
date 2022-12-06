@@ -91,4 +91,4 @@ const validPassports = passports.reduce((ppAcc, ppCurr) => {
 
 console.log({validPassports});
 
-console.log(validateAnswer(150, validPassports));
+console.log(validateAnswer(224, validPassports));

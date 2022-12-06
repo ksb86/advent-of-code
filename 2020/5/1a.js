@@ -36,4 +36,4 @@ const seatIds = lines.map(line => {
 const highestSeatId = Math.max(...seatIds);
 console.log({highestSeatId});
 
-console.log(validateAnswer(951, highestSeatId));
+console.log(validateAnswer(955, highestSeatId));

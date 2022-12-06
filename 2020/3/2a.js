@@ -24,4 +24,4 @@ const treesPerSlope = slopes.map(slope => {
 console.log({treesPerSlope});
 const answer = numArrayProduct(treesPerSlope)
 console.log('treesPerSlopes product: ', answer);
-console.log(validateAnswer(3898725600, answer));
+console.log(validateAnswer(3521829480, answer));

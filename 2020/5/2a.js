@@ -42,4 +42,4 @@ seatIds.sort((a,b) => a-b).forEach((element, i, array) => {
 });
 
 console.log({missingSeat});
-console.log(validateAnswer(653, missingSeat));
+console.log(validateAnswer(569, missingSeat));

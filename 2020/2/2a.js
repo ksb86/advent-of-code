@@ -12,4 +12,4 @@ const validPasswords = lines.filter(item => {
 });
 console.log(validPasswords.length);
 
-console.log(validateAnswer(404, validPasswords.length));
+console.log(validateAnswer(699, validPasswords.length));

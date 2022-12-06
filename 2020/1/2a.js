@@ -21,4 +21,4 @@ console.log({multipliers});
 const product = multipliers[0]*multipliers[1]*multipliers[2];
 console.log({product});
 
-console.log(validateAnswer(100655544, product));
+console.log(validateAnswer(59885340, product));
