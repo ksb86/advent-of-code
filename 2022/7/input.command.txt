@@ -1,0 +1,1081 @@
+mkdir btsgrbd
+echo 3868 >> cprq.fmm
+mkdir gcbpcf
+mkdir hfm
+echo 324644 >> lthcng.gnf
+echo 133181 >> nblfzrb.mrr
+echo 140568 >> sfrbjmmh.jnj
+mkdir tfsh
+mkdir vlsqgrw
+echo 202279 >> vmpgqbcd
+cd btsgrbd
+ls
+mkdir cmfdm
+mkdir cqd
+mkdir gvwvs
+mkdir nblfzrb
+mkdir nfm
+echo 293979 >> qwnml.bqn
+echo 159220 >> sdwnsgwv.mjm
+echo 327978 >> vzgwwjq.zbp
+echo 155479 >> zvspnvfr.zbc
+cd cmfdm
+ls
+mkdir gldnjj
+mkdir vhf
+cd gldnjj
+ls
+mkdir dvght
+echo 93750 >> lwvtzd.pws
+echo 176529 >> sdwnsgwv.mjm
+echo 100111 >> vmpgqbcd
+cd dvght
+ls
+mkdir tfbzq
+cd tfbzq
+ls
+echo 276592 >> tcghw.srg
+cd ..
+cd ..
+cd ..
+cd vhf
+ls
+echo 240217 >> hfm.rfp
+mkdir nblfzrb
+cd nblfzrb
+ls
+echo 160378 >> jhc
+cd ..
+cd ..
+cd ..
+cd cqd
+ls
+echo 305358 >> bnddfgrb
+mkdir dwqncqp
+mkdir hnnfdtbh
+mkdir jhc
+mkdir nblfzrb
+echo 327762 >> scnm.qbf
+echo 165080 >> vmpgqbcd
+echo 190041 >> vzgwwjq.zbp
+mkdir zwv
+cd dwqncqp
+ls
+echo 122570 >> slpgmhv
+echo 278461 >> zlnbcwr
+cd ..
+cd hnnfdtbh
+ls
+echo 334830 >> gfprhn.rjj
+cd ..
+cd jhc
+ls
+echo 179593 >> fgb.btb
+cd ..
+cd nblfzrb
+ls
+mkdir clbcgvhc
+mkdir jhc
+mkdir lsrnz
+mkdir mctd
+cd clbcgvhc
+ls
+echo 285825 >> hnn
+echo 238272 >> nblfzrb.wvr
+cd ..
+cd jhc
+ls
+echo 99731 >> nblfzrb.svz
+cd ..
+cd lsrnz
+ls
+echo 257843 >> fsthnpmd
+cd ..
+cd mctd
+ls
+echo 278117 >> zlnbcwr
+cd ..
+cd ..
+cd zwv
+ls
+echo 40349 >> jhc
+mkdir pqwml
+echo 173804 >> sdwnsgwv.mjm
+cd pqwml
+ls
+echo 193573 >> hbzvzwpr
+cd ..
+cd ..
+cd ..
+cd gvwvs
+ls
+mkdir gjslw
+mkdir gwz
+mkdir ljvrjp
+mkdir sltlpb
+mkdir vbsnq
+cd gjslw
+ls
+mkdir gzbm
+cd gzbm
+ls
+mkdir fst
+mkdir gpjz
+mkdir gzd
+mkdir hfm
+cd fst
+ls
+echo 99806 >> mqpg
+cd ..
+cd gpjz
+ls
+mkdir dnsvsp
+echo 218828 >> jhc.dfd
+cd dnsvsp
+ls
+mkdir vmdbpwj
+mkdir zvspnvfr
+cd vmdbpwj
+ls
+echo 258373 >> jhc
+cd ..
+cd zvspnvfr
+ls
+echo 18241 >> vzgwwjq.zbp
+cd ..
+cd ..
+cd ..
+cd gzd
+ls
+echo 20383 >> chdfwj
+echo 63309 >> prrlv.rvn
+cd ..
+cd hfm
+ls
+echo 291753 >> qhh
+cd ..
+cd ..
+cd ..
+cd gwz
+ls
+echo 29042 >> hfm.hpn
+echo 184043 >> mpc
+echo 230539 >> sdwnsgwv.mjm
+echo 803 >> zlnbcwr
+cd ..
+cd ljvrjp
+ls
+echo 44312 >> pfltqw.zvc
+cd ..
+cd sltlpb
+ls
+echo 321945 >> sdwnsgwv.mjm
+cd ..
+cd vbsnq
+ls
+echo 7774 >> twbbg.ftq
+echo 109546 >> zpqbp.cts
+cd ..
+cd ..
+cd nblfzrb
+ls
+echo 89034 >> fst
+echo 338143 >> sdwnsgwv.mjm
+echo 130661 >> vmpgqbcd
+echo 130071 >> vrj.zlb
+cd ..
+cd nfm
+ls
+echo 327853 >> fwmfmtt.hdg
+echo 151272 >> vdjs
+mkdir wznwjfw
+echo 75692 >> zlnbcwr
+cd wznwjfw
+ls
+mkdir nblfzrb
+mkdir zvspnvfr
+cd nblfzrb
+ls
+echo 271817 >> fpqfgs.gdl
+cd ..
+cd zvspnvfr
+ls
+mkdir hfm
+mkdir mdftsf
+cd hfm
+ls
+mkdir fsgdq
+mkdir grj
+cd fsgdq
+ls
+echo 244565 >> sdwnsgwv.mjm
+cd ..
+cd grj
+ls
+echo 200989 >> rdvvrjf.fwz
+cd ..
+cd ..
+cd mdftsf
+ls
+mkdir fnzztppm
+echo 21425 >> jhc.mtl
+cd fnzztppm
+ls
+echo 159263 >> bvf
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd gcbpcf
+ls
+echo 295086 >> gfprhn.rjj
+mkdir ldwwls
+mkdir nblfzrb
+mkdir zvspnvfr
+mkdir zwv
+cd ldwwls
+ls
+echo 175977 >> sdwnsgwv.mjm
+cd ..
+cd nblfzrb
+ls
+mkdir mzshzw
+cd mzshzw
+ls
+mkdir mllqf
+cd mllqf
+ls
+echo 113563 >> hfm.svt
+cd ..
+cd ..
+cd ..
+cd zvspnvfr
+ls
+echo 84524 >> fst
+mkdir jhc
+mkdir llnqc
+echo 126979 >> nnrwp.shv
+mkdir npjd
+mkdir nptwgdbn
+echo 133618 >> qtn
+mkdir rddftb
+mkdir thfhbhz
+echo 129882 >> vmpgqbcd
+echo 170834 >> zlnbcwr
+cd jhc
+ls
+mkdir pjlj
+mkdir tfljr
+cd pjlj
+ls
+mkdir jhc
+cd jhc
+ls
+mkdir hqzm
+cd hqzm
+ls
+echo 159505 >> zlnbcwr
+cd ..
+cd ..
+cd ..
+cd tfljr
+ls
+mkdir dwhjmg
+cd dwhjmg
+ls
+mkdir nblfzrb
+cd nblfzrb
+ls
+echo 194723 >> ppptz
+cd ..
+cd ..
+cd ..
+cd ..
+cd llnqc
+ls
+echo 194898 >> vzgwwjq.zbp
+cd ..
+cd npjd
+ls
+mkdir blvfljfn
+mkdir dzpplzl
+echo 101118 >> gfprhn.rjj
+echo 116164 >> hbbnl.nvz
+echo 211685 >> hfm
+mkdir jhc
+mkdir mcnftw
+mkdir nblfzrb
+mkdir ncpchrj
+mkdir qrdczsdf
+echo 165190 >> ttbj
+echo 190954 >> vzgwwjq.zbp
+cd blvfljfn
+ls
+echo 283460 >> gfprhn.rjj
+echo 148100 >> sqljld
+cd ..
+cd dzpplzl
+ls
+echo 62592 >> jjlvdvq.mqp
+cd ..
+cd jhc
+ls
+echo 90578 >> dvd.wvl
+echo 165955 >> zqplggf
+cd ..
+cd mcnftw
+ls
+echo 157908 >> gbqpdt
+mkdir jsnrcfbv
+mkdir nblfzrb
+echo 322169 >> qlmd.dbq
+mkdir zvspnvfr
+cd jsnrcfbv
+ls
+mkdir gffj
+echo 75682 >> hfm
+mkdir pmfwlzn
+echo 160494 >> vzgwwjq.zbp
+cd gffj
+ls
+mkdir nblfzrb
+echo 9340 >> pcqs
+cd nblfzrb
+ls
+echo 216547 >> sdwnsgwv.mjm
+echo 135235 >> zvspnvfr.nvs
+cd ..
+cd ..
+cd pmfwlzn
+ls
+echo 137069 >> jbsmwm
+cd ..
+cd ..
+cd nblfzrb
+ls
+mkdir hflnbmcd
+echo 11899 >> vzgwwjq.zbp
+echo 334607 >> whmq.ftc
+echo 347595 >> zlnbcwr
+cd hflnbmcd
+ls
+echo 275968 >> sdwnsgwv.mjm
+cd ..
+cd ..
+cd zvspnvfr
+ls
+echo 75213 >> vmpgqbcd
+cd ..
+cd ..
+cd nblfzrb
+ls
+mkdir jhc
+cd jhc
+ls
+mkdir jhc
+cd jhc
+ls
+echo 218236 >> nblfzrb.mbc
+cd ..
+cd ..
+cd ..
+cd ncpchrj
+ls
+mkdir cnswqjjd
+mkdir gvmlgjnj
+cd cnswqjjd
+ls
+echo 134879 >> qpzfr
+echo 30171 >> zvspnvfr
+cd ..
+cd gvmlgjnj
+ls
+echo 209285 >> fst
+cd ..
+cd ..
+cd qrdczsdf
+ls
+echo 201094 >> zlnbcwr
+cd ..
+cd ..
+cd nptwgdbn
+ls
+echo 217555 >> gfprhn.rjj
+echo 66582 >> mrhhpr.gdg
+cd ..
+cd rddftb
+ls
+echo 205347 >> sdwnsgwv.mjm
+echo 195976 >> vzgwwjq.zbp
+cd ..
+cd thfhbhz
+ls
+echo 321628 >> zlnbcwr
+cd ..
+cd ..
+cd zwv
+ls
+mkdir lnqb
+echo 311249 >> mtv
+mkdir tnrtjrlz
+cd lnqb
+ls
+mkdir vjtnjt
+cd vjtnjt
+ls
+echo 66715 >> hfm
+cd ..
+cd ..
+cd tnrtjrlz
+ls
+echo 270833 >> jhc.vpj
+cd ..
+cd ..
+cd ..
+cd hfm
+ls
+echo 220753 >> fst.tfn
+mkdir hfm
+echo 154659 >> mnzlvc.jzw
+mkdir nblfzrb
+mkdir nrqhstc
+mkdir vwc
+mkdir wlpdphhg
+mkdir zpbh
+mkdir zvspnvfr
+echo 160091 >> zvspnvfr.zqt
+cd hfm
+ls
+mkdir fst
+mkdir mfmcqhbz
+mkdir pdblpszb
+cd fst
+ls
+mkdir cpll
+mkdir fst
+mkdir nblfzrb
+mkdir sbnplvz
+mkdir vsd
+echo 307662 >> wlzbsdh
+echo 194873 >> zlnbcwr
+cd cpll
+ls
+echo 13452 >> pwcmhcf.lwz
+cd ..
+cd fst
+ls
+mkdir nblfzrb
+mkdir rqssg
+cd nblfzrb
+ls
+mkdir ltrc
+mkdir nblfzrb
+echo 326613 >> vhwnz
+echo 244908 >> vzgwwjq.zbp
+cd ltrc
+ls
+echo 163670 >> zlnbcwr
+cd ..
+cd nblfzrb
+ls
+mkdir brpzhf
+echo 61846 >> fst
+echo 66356 >> vccrmc.jbd
+echo 72767 >> vmpgqbcd
+cd brpzhf
+ls
+echo 224488 >> mttr.szf
+cd ..
+cd ..
+cd ..
+cd rqssg
+ls
+echo 131534 >> bfmhl.cwj
+echo 261143 >> hhznnd
+mkdir nmb
+echo 74816 >> vnmwgflj.rhp
+echo 251308 >> wdzfzcss.fdc
+cd nmb
+ls
+echo 264421 >> fst.twf
+mkdir jng
+echo 81009 >> rnt.dlp
+echo 288053 >> sftvd
+mkdir vfc
+cd jng
+ls
+echo 8014 >> gfprhn.rjj
+echo 168688 >> ppn.qbv
+cd ..
+cd vfc
+ls
+mkdir bhgstrdl
+echo 138108 >> dggwnqp.fpl
+echo 303194 >> gfprhn.rjj
+cd bhgstrdl
+ls
+echo 102559 >> fst.nrv
+echo 269697 >> trqrlrw.jmc
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd nblfzrb
+ls
+mkdir bcj
+mkdir cqjmmr
+echo 256392 >> fst.tjf
+echo 7079 >> gfprhn.rjj
+mkdir gqm
+mkdir hbqfms
+mkdir nmgbfhmq
+echo 57962 >> pvdtbdj
+echo 117035 >> sdwnsgwv.mjm
+echo 64208 >> zlnbcwr
+cd bcj
+ls
+mkdir nblfzrb
+cd nblfzrb
+ls
+echo 149417 >> zvspnvfr.dqv
+cd ..
+cd ..
+cd cqjmmr
+ls
+echo 147054 >> fcq.mmz
+mkdir fst
+mkdir hfm
+echo 110840 >> jcsjjj.mvg
+echo 75746 >> vzgwwjq.zbp
+echo 333085 >> zlnbcwr
+cd fst
+ls
+echo 114747 >> vmpgqbcd
+cd ..
+cd hfm
+ls
+mkdir nvvppmls
+mkdir phpq
+mkdir rld
+cd nvvppmls
+ls
+mkdir cdsmgjdb
+cd cdsmgjdb
+ls
+echo 158739 >> hfm.nmw
+cd ..
+cd ..
+cd phpq
+ls
+echo 274026 >> hfm.hjj
+cd ..
+cd rld
+ls
+echo 237915 >> hsnngd.tqw
+cd ..
+cd ..
+cd ..
+cd gqm
+ls
+echo 188469 >> vzgwwjq.zbp
+cd ..
+cd hbqfms
+ls
+echo 127163 >> fst
+cd ..
+cd nmgbfhmq
+ls
+echo 257647 >> gczqzbbd
+mkdir hfm
+mkdir zvspnvfr
+cd hfm
+ls
+echo 267774 >> gbtwdctn.drw
+cd ..
+cd zvspnvfr
+ls
+echo 189769 >> gfprhn.rjj
+cd ..
+cd ..
+cd ..
+cd sbnplvz
+ls
+mkdir bln
+mkdir fst
+mkdir hdv
+mkdir jhc
+echo 31790 >> jhc.zvm
+echo 102276 >> mmmjpp
+mkdir zdwzgnb
+cd bln
+ls
+echo 161029 >> zlnbcwr
+cd ..
+cd fst
+ls
+echo 333565 >> fst
+cd ..
+cd hdv
+ls
+mkdir zvpp
+cd zvpp
+ls
+echo 143723 >> gfprhn.rjj
+cd ..
+cd ..
+cd jhc
+ls
+mkdir hfm
+mkdir hnqpwnfb
+mkdir jqgfcmjn
+mkdir mqj
+echo 312345 >> psdd.ftf
+mkdir slsq
+echo 319904 >> thvhdmm.rpq
+echo 317429 >> vzgwwjq.zbp
+cd hfm
+ls
+echo 249321 >> bwzrcghg.zwq
+echo 38324 >> zlnbcwr
+echo 149647 >> zvspnvfr.jwn
+cd ..
+cd hnqpwnfb
+ls
+echo 113118 >> bdmtgt
+echo 299110 >> bthznc.bjt
+cd ..
+cd jqgfcmjn
+ls
+echo 176495 >> hfm.wnw
+echo 333817 >> mqds
+echo 208755 >> vqsmz.cbd
+echo 298875 >> zltfds
+cd ..
+cd mqj
+ls
+echo 186649 >> brfmpbwn
+echo 43322 >> cgdhzzl.bvg
+echo 56230 >> zlnbcwr
+cd ..
+cd slsq
+ls
+mkdir dtsg
+echo 343453 >> rjgvt.sgc
+echo 313784 >> vmpgqbcd
+cd dtsg
+ls
+echo 308070 >> zvspnvfr.dqq
+cd ..
+cd ..
+cd ..
+cd zdwzgnb
+ls
+mkdir zvspnvfr
+cd zvspnvfr
+ls
+echo 278754 >> glqszhnp
+echo 199713 >> sdwnsgwv.mjm
+cd ..
+cd ..
+cd ..
+cd vsd
+ls
+echo 17978 >> fdrg.cft
+echo 320284 >> sdwnsgwv.mjm
+echo 230059 >> tpfmtww.jbs
+echo 168301 >> vmpgqbcd
+cd ..
+cd ..
+cd mfmcqhbz
+ls
+mkdir fst
+mkdir lwlsnt
+mkdir mqqdst
+cd fst
+ls
+mkdir cln
+echo 235621 >> hfm.mhr
+echo 4347 >> qwfwj
+echo 226297 >> zlnbcwr
+cd cln
+ls
+mkdir cfz
+mkdir njptzz
+mkdir rcbps
+echo 161994 >> rjl.pfg
+mkdir tcqttb
+echo 22809 >> vmpgqbcd
+echo 225782 >> zvspnvfr.gbw
+cd cfz
+ls
+echo 168184 >> zvspnvfr
+cd ..
+cd njptzz
+ls
+echo 286155 >> hfm.mjh
+cd ..
+cd rcbps
+ls
+echo 256675 >> vzgwwjq.zbp
+cd ..
+cd tcqttb
+ls
+echo 91505 >> flmgglv.gjw
+echo 270377 >> ftbjzt.lcm
+cd ..
+cd ..
+cd ..
+cd lwlsnt
+ls
+mkdir ztrcwjw
+cd ztrcwjw
+ls
+echo 342059 >> vjcldgfj.twb
+cd ..
+cd ..
+cd mqqdst
+ls
+echo 326143 >> dhlhzzj.sbh
+mkdir lmsbg
+echo 13108 >> nblfzrb.nnr
+echo 256325 >> vzgwwjq.zbp
+echo 146133 >> zlnbcwr
+cd lmsbg
+ls
+echo 282223 >> zvspnvfr.zwq
+cd ..
+cd ..
+cd ..
+cd pdblpszb
+ls
+echo 167164 >> sdwnsgwv.mjm
+cd ..
+cd ..
+cd nblfzrb
+ls
+echo 161555 >> zlnbcwr
+cd ..
+cd nrqhstc
+ls
+echo 316797 >> gfprhn.rjj
+echo 263838 >> nblfzrb.cjr
+mkdir pppmp
+mkdir shcwlggz
+cd pppmp
+ls
+mkdir fst
+echo 328237 >> gfprhn.rjj
+echo 288094 >> hzv.prf
+echo 260275 >> pcnhmmw
+echo 214496 >> pptjlrn.pls
+mkdir tqjgrc
+echo 315647 >> vmbvl.zvh
+cd fst
+ls
+echo 4441 >> dtt
+echo 115073 >> jhdqj.tpt
+echo 337681 >> zlnbcwr
+cd ..
+cd tqjgrc
+ls
+echo 6491 >> zlnbcwr
+cd ..
+cd ..
+cd shcwlggz
+ls
+echo 251509 >> gfprhn.rjj
+echo 331578 >> slsnbzm
+echo 158534 >> wlchqtzj.ljz
+echo 341686 >> wmdvjs.tjb
+cd ..
+cd ..
+cd vwc
+ls
+echo 94599 >> gfprhn.rjj
+echo 298110 >> hql.hss
+mkdir rsrfc
+echo 230201 >> vmpgqbcd
+mkdir zcsqst
+mkdir zrz
+echo 58810 >> zvspnvfr
+cd rsrfc
+ls
+mkdir fst
+cd fst
+ls
+echo 259462 >> bflpjwd.wbj
+echo 177686 >> cvh.fnr
+cd ..
+cd ..
+cd zcsqst
+ls
+echo 344114 >> bbbd.ncl
+echo 282111 >> gfprhn.rjj
+echo 327171 >> jhc
+echo 43867 >> qwzwmffq.chl
+cd ..
+cd zrz
+ls
+mkdir zvspnvfr
+cd zvspnvfr
+ls
+mkdir fst
+cd fst
+ls
+echo 218902 >> fst.jmg
+cd ..
+cd ..
+cd ..
+cd ..
+cd wlpdphhg
+ls
+mkdir lllph
+echo 41390 >> wmn
+cd lllph
+ls
+echo 167740 >> bbfqftlg.pll
+cd ..
+cd ..
+cd zpbh
+ls
+echo 63568 >> jhc.tfs
+mkdir nblfzrb
+mkdir rlsvrfrb
+echo 29977 >> vzgwwjq.zbp
+mkdir zvspnvfr
+cd nblfzrb
+ls
+echo 154990 >> gbvpw.bpm
+mkdir hfm
+echo 148488 >> jhc
+echo 301795 >> jhc.zlg
+mkdir nblfzrb
+echo 115285 >> rvhcfsrw.crj
+echo 320034 >> wsqdt
+cd hfm
+ls
+echo 141530 >> vmpgqbcd
+cd ..
+cd nblfzrb
+ls
+mkdir rnhn
+cd rnhn
+ls
+echo 46251 >> sdwnsgwv.mjm
+cd ..
+cd ..
+cd ..
+cd rlsvrfrb
+ls
+echo 140923 >> hfm
+echo 228981 >> zvspnvfr.mvl
+cd ..
+cd zvspnvfr
+ls
+echo 182280 >> gnhh.hpw
+echo 95206 >> vvlt.pgf
+cd ..
+cd ..
+cd zvspnvfr
+ls
+echo 234551 >> wsfjhlqc.zsj
+cd ..
+cd ..
+cd tfsh
+ls
+mkdir fbrqvwgr
+cd fbrqvwgr
+ls
+echo 244821 >> nrhm
+cd ..
+cd ..
+cd vlsqgrw
+ls
+mkdir dzdd
+echo 18805 >> fst.rjm
+echo 50694 >> gfprhn.rjj
+echo 55025 >> jlnrm
+mkdir pnsbfz
+mkdir qjjjgd
+mkdir whrtnh
+echo 28406 >> zggjjcct.fsz
+cd dzdd
+ls
+mkdir hjmv
+cd hjmv
+ls
+echo 91558 >> hfm.qcd
+cd ..
+cd ..
+cd pnsbfz
+ls
+mkdir bmgmh
+mkdir nblfzrb
+mkdir zvfg
+cd bmgmh
+ls
+mkdir dvh
+mkdir mwfbthpj
+mkdir swqbph
+cd dvh
+ls
+mkdir jhc
+mkdir jtp
+echo 85638 >> rzlt.llb
+cd jhc
+ls
+mkdir dltqbnpq
+cd dltqbnpq
+ls
+echo 133426 >> zlnbcwr
+cd ..
+cd ..
+cd jtp
+ls
+mkdir clh
+cd clh
+ls
+echo 54117 >> sdwnsgwv.mjm
+cd ..
+cd ..
+cd ..
+cd mwfbthpj
+ls
+echo 75900 >> zwslwbr.chm
+cd ..
+cd swqbph
+ls
+echo 307258 >> jrlljc.ntl
+cd ..
+cd ..
+cd nblfzrb
+ls
+echo 106071 >> zdjg.qsj
+cd ..
+cd zvfg
+ls
+echo 311338 >> zvspnvfr.dqj
+cd ..
+cd ..
+cd qjjjgd
+ls
+mkdir cdmwgn
+mkdir fqmln
+echo 285733 >> gfprhn.rjj
+mkdir gswsc
+mkdir htpzdb
+echo 261929 >> jwc
+mkdir lvzpqqv
+mkdir mlc
+mkdir mzbpmhf
+echo 329303 >> sdwnsgwv.mjm
+echo 76120 >> vmpgqbcd
+cd cdmwgn
+ls
+mkdir bttff
+cd bttff
+ls
+mkdir nblfzrb
+cd nblfzrb
+ls
+echo 346048 >> jhc.hzf
+mkdir nccq
+mkdir rwtddj
+echo 149890 >> sdwnsgwv.mjm
+cd nccq
+ls
+echo 141144 >> gfprhn.rjj
+echo 65628 >> hfm
+cd ..
+cd rwtddj
+ls
+mkdir jctw
+cd jctw
+ls
+echo 141075 >> thcfz.frn
+cd ..
+cd ..
+cd ..
+cd ..
+cd ..
+cd fqmln
+ls
+echo 282233 >> cjgh
+cd ..
+cd gswsc
+ls
+echo 153758 >> ccjg.zml
+mkdir cllgt
+echo 257967 >> ctqdpq.clq
+echo 117673 >> jhc
+echo 258604 >> wqcz.tww
+echo 122135 >> zvspnvfr.grb
+cd cllgt
+ls
+echo 132862 >> vmpgqbcd
+cd ..
+cd ..
+cd htpzdb
+ls
+mkdir hfm
+mkdir mlplp
+echo 231759 >> nblfzrb
+echo 159823 >> pqpbjbqp
+echo 25382 >> vzgwwjq.zbp
+cd hfm
+ls
+echo 155413 >> bbbsd
+echo 288638 >> jhhmwq
+mkdir lnss
+cd lnss
+ls
+echo 341786 >> zvspnvfr
+cd ..
+cd ..
+cd mlplp
+ls
+echo 256802 >> zhcq.gzj
+cd ..
+cd ..
+cd lvzpqqv
+ls
+mkdir cgj
+mkdir mdb
+mkdir shpdtb
+cd cgj
+ls
+echo 74595 >> nblfzrb.lcc
+cd ..
+cd mdb
+ls
+echo 167891 >> zvspnvfr.ldc
+cd ..
+cd shpdtb
+ls
+echo 45889 >> bvff.hsf
+echo 92447 >> sdwnsgwv.mjm
+cd ..
+cd ..
+cd mlc
+ls
+echo 7978 >> mrblf
+cd ..
+cd mzbpmhf
+ls
+echo 38713 >> jhbs
+cd ..
+cd ..
+cd whrtnh
+ls
+mkdir jbbwzd
+mkdir nblfzrb
+cd jbbwzd
+ls
+echo 88613 >> jhc.qqw
+cd ..
+cd nblfzrb
+ls
+echo 164792 >> zlnbcwr
