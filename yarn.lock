@@ -72,6 +72,11 @@ debug@^3.2.7:
   dependencies:
     ms "^2.1.1"
 
+deep-get-set@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/deep-get-set/-/deep-get-set-1.1.1.tgz#caa720cbeaa4def5a924a63362be3f3d4bdb04b0"
+  integrity sha512-dBrY4GeR55KfyF9Ipswif/Et4muInKpXkf3ro9hFT/8OdPMVsEGNSfuGzfBv/dJKKwKSqInoZGKV5f40bA7TJA==
+
 fill-range@^7.0.1:
   version "7.0.1"
   resolved "https://registry.yarnpkg.com/fill-range/-/fill-range-7.0.1.tgz#1919a6a7c75fe38b2c7c77e5198535da9acdda40"

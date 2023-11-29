@@ -8,9 +8,12 @@ module.exports = {
     numArraySum,
     newLineString,
     validateAnswer,
+    sortBy,
 };
 
-
+function sortBy(property) {
+    return (a, b) => a[property] > b[property] ? 1 : -1;
+}
 function getInput(path, {readAsString = false, splitTwoLines = false} = {}) {
     let list = fs.readFileSync(path, {encoding: 'utf8'});
     if (readAsString) {
