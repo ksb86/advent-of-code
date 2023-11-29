@@ -9,8 +9,10 @@
     "new": "node new.js"
   },
   "dependencies": {
+    "axios": "^1.6.2",
     "colors": "^1.4.0",
     "deep-get-set": "^1.1.1",
+    "dotenv": "^16.3.1",
     "lodash": "^4.17.21",
     "nodemon": "^2.0.20"
   }
