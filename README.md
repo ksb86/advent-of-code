@@ -2,13 +2,13 @@
 25 Programming problems in December
 
 ---
-#### Retrieve and write input, create blank solution files ready for developing (number is day):
+#### Retrieve and write input, create blank solution files ready for developing (prompts for day, defaults to today + 1):
 
-    > day=1 yarn new
+    > yarn new
 
-#### Retrieve and write input, create blank solution files ready for developing (number is day):
+#### Run nodemon on solution file (prompts for day and part, defaults to today + 1 and part 1):
 
-    > day=1 part=2 yarn dev
+    > yarn dev
 
 
 ### 2023
