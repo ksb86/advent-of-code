@@ -22,7 +22,7 @@ async function run() {
                 Cookie: `session=${process.env.SESSION_COOKIE}`,
             },
         });
-        writeFileSync(`${newDir}/input.txt`, data);
+        writeFileSync(`${newDir}/input.txt`, data.trim());
         console.log(`✅ Input retrieved and written to ${`'${year}/${day}/input.txt'`.bold}`.green);
     } catch (error) {
         try {

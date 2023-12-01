@@ -1,5 +1,5 @@
 const path = require('path');
-const { getInput, validateAnswer, newLineString } = require('../../helpers');
+const { getInput, numArrayProduct, numArraySum, newLineString, validateAnswer, sortBy } = require('../../helpers');
 
 const input = getInput(path.resolve(__dirname, './input.txt'));
 

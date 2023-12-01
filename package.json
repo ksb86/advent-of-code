@@ -6,7 +6,8 @@
   "author": "Shane Barnwell <ksbarnwell@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "new": "node new.js"
+    "dev": "npx nodemon -e txt,js \"`date +'%Y'`/${day}/${part}a.js\"",
+    "new": "node new.js ${day}"
   },
   "dependencies": {
     "axios": "^1.6.2",
