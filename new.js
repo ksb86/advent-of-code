@@ -11,8 +11,21 @@ async function run() {
     }
     const year = (new Date()).getFullYear();
     // const year = 2022;
-    const newDir = `${__dirname}/${year}/${day}`;
+    const yearDayDir = `${year}/${day}`;
+    const newDir = `${__dirname}/${yearDayDir}`;
     mkdirSync(newDir, {recursive: true})
+
+    // write sample input file
+    try {
+        copyFileSync(`${__dirname}/template_blank.txt`, `${newDir}/example.txt`, constants.COPYFILE_EXCL);
+        console.log(`✅ Created: ${`'${yearDayDir}/example.txt'`.bold} (BLANK)`.green);
+    } catch (error) {
+        if (error.code === 'EEXIST') {
+            console.error(`❌ Exists: ${`'${yearDayDir}/example.txt'`.bold}`.red);
+        } else {
+            console.error({ error });
+        }
+    }
 
     // get and write input file
     try {
@@ -23,28 +36,41 @@ async function run() {
             },
         });
         writeFileSync(`${newDir}/input.txt`, data.trim());
-        console.log(`✅ Input retrieved and written to ${`'${year}/${day}/input.txt'`.bold}`.green);
+        console.log(`✅ Created: ${`'${yearDayDir}/input.txt'`.bold} (POPULATED)`.green);
     } catch (error) {
         try {
-            copyFileSync(`${__dirname}/template_input.txt`, `${newDir}/input.txt`, constants.COPYFILE_EXCL);
-            console.error(`❕ Unable to retrieve and write input, copied blank input template instead.`.yellow);
+            copyFileSync(`${__dirname}/template_blank.txt`, `${newDir}/input.txt`, constants.COPYFILE_EXCL);
+            console.warn(`❕ Created: ${`'${yearDayDir}/input.txt'`.bold} (BLANK)`.green);
+
+            // console.error(`❕ Unable to retrieve input, wrote blank input file at ${yearDayDir}/input.txt`.yellow);
         } catch (error2) {
             if (error2.code === 'EEXIST') {
-                console.error(`❌ Input file already exists in ${`'${year}/${day}'`.bold}`.red);
+                console.error(`❌ Exists: ${`'${yearDayDir}/input.txt'`.bold}`.red);
             } else {
                 console.error({error: error2});
             }
         }
     }
 
-    // write solution files
+    // write solution file part 1
     try {
         copyFileSync(`${__dirname}/template_solution.js`, `${newDir}/1a.js`, constants.COPYFILE_EXCL);
-        copyFileSync(`${__dirname}/template_solution.js`, `${newDir}/2a.js`, constants.COPYFILE_EXCL);
-        console.log(`✅ Solution files created in ${`'${year}/${day}'`.bold}`.green);
+        console.log(`✅ Created: ${`'${yearDayDir}/1a.js'`.bold}`.green);
     } catch (error) {
         if (error.code === 'EEXIST') {
-            console.error(`❌ Solution files already exist in ${`'${year}/${day}'`.bold}`.red);
+            console.error(`❌ Exists: ${`'${yearDayDir}/1a.js'`.bold}`.red);
+        } else {
+            console.error({error});
+        }
+    }
+
+    // write solution file part 2
+    try {
+        copyFileSync(`${__dirname}/template_solution.js`, `${newDir}/2a.js`, constants.COPYFILE_EXCL);
+        console.log(`✅ Created: ${`'${yearDayDir}/2a.js'`.bold}`.green);
+    } catch (error) {
+        if (error.code === 'EEXIST') {
+            console.error(`❌ Exists: ${`'${yearDayDir}/2a.js'`.bold}`.red);
         } else {
             console.error({error});
         }
