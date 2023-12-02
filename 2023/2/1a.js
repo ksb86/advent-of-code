@@ -1,8 +1,14 @@
 const path = require('path');
 const { getInput, numArrayProduct, numArraySum, newLineString, validateAnswer, sortBy } = require('../../helpers');
 
-// const input = getInput(path.resolve(__dirname, './example.txt'));
-const input = getInput(path.resolve(__dirname, './input.txt'));
+let myOutput;
+// ACTUAL
+let input = getInput(path.resolve(__dirname, './input.txt'));
+let expectedOutput = 2600; // ACTUAL
+
+// EXAMPLE
+// input = getInput(path.resolve(__dirname, './example.txt'));
+// expectedOutput = 8; // EXAMPLE
 
 const cubes = {
     'r': 12,
@@ -28,5 +34,7 @@ const possibleGames = input.reduce((acc, game) => {
     return acc;
 }, []);
 
-console.log(numArraySum(possibleGames));
-console.log(validateAnswer(2600, numArraySum(possibleGames)));
+myOutput = numArraySum(possibleGames);
+
+console.log({myOutput});
+console.log(validateAnswer(expectedOutput, myOutput));

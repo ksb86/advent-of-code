@@ -1,8 +1,14 @@
 const path = require('path');
 const { getInput, numArrayProduct, numArraySum, newLineString, validateAnswer, sortBy } = require('../../helpers');
 
-// const input = getInput(path.resolve(__dirname, './input copy.txt'));
-const input = getInput(path.resolve(__dirname, './input.txt'));
+let myOutput;
+// ACTUAL
+let input = getInput(path.resolve(__dirname, './input.txt'));
+let expectedOutput = 86036; // ACTUAL
+
+// EXAMPLE
+// input = getInput(path.resolve(__dirname, './example.txt'));
+// expectedOutput = 2286; // EXAMPLE
 
 const gamePowers = input.map(game => {
     let [id, games] = game.split(': ');
@@ -20,5 +26,7 @@ const gamePowers = input.map(game => {
     return numArrayProduct(Object.values(maxes));
 });
 
-console.log(numArraySum(gamePowers));
-console.log(validateAnswer(86036, numArraySum(gamePowers)));
+myOutput = numArraySum(gamePowers);
+
+console.log({myOutput});
+console.log(validateAnswer(expectedOutput, myOutput));
