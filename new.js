@@ -45,7 +45,7 @@ async function run() {
             // console.error(`❕ Unable to retrieve input, wrote blank input file at ${yearDayDir}/input.txt`.yellow);
         } catch (error2) {
             if (error2.code === 'EEXIST') {
-                console.error(`❌ Exists: ${`'${yearDayDir}/input.txt'`.bold}`.red);
+                console.error(`❕ ❌ Exists: ${`'${yearDayDir}/input.txt'`.bold}`.red);
             } else {
                 console.error({error: error2});
             }
