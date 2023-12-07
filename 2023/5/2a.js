@@ -1,10 +1,10 @@
 const path = require('path');
 const { getInput, numArrayProduct, numArraySum, newLineString, validateAnswer, sortBy } = require('../../helpers');
-
+console.time('p2');
 let myOutput;
 // ACTUAL
 let [seeds, ...maps] = getInput(path.resolve(__dirname, './input.txt'), {splitTwoLines: true});
-let expectedOutput = 379811651; // ACTUAL
+let expectedOutput = 27992443; // ACTUAL
 
 // EXAMPLE
 // [seeds, ...maps] = getInput(path.resolve(__dirname, './example.txt'), {splitTwoLines: true});
@@ -68,6 +68,7 @@ function mapFunc(seed) {
 let minimum;
 seedRanges.forEach(({first, last}, i) => {
     console.log('starting seedrange: ', i);
+    console.timeLog("p2");
     let tracker = first;
     let temp;
     while (tracker <= last) {
@@ -76,6 +77,7 @@ seedRanges.forEach(({first, last}, i) => {
             minimum = temp;
         } else if (temp < minimum) {
             console.log('found minimum: ', temp);
+            console.timeLog("p2");
             minimum = temp;
         }
         tracker++;
@@ -84,5 +86,6 @@ seedRanges.forEach(({first, last}, i) => {
 myOutput = minimum;
 console.log({myOutput});
 console.log(validateAnswer(expectedOutput, myOutput));
+console.timeEnd('p2');
 
 // this takes too long (10-15 minutes), there's a better way...
