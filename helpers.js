@@ -1,3 +1,4 @@
+require('colors');
 const fs = require('fs');
 
 const newLineString = process.platform === "win32" ? '\r\n' : '\n';
@@ -37,5 +38,5 @@ function numArraySum(numArray) {
 };
 
 function validateAnswer(expected, actual) {
-    return expected === actual ? 'PASS' : 'FAIL';
+    return `${'Validation: '.blue} ${expected === actual ? 'PASS'.green : 'FAIL'.red}`;
 };

@@ -1,6 +1,6 @@
 require('dotenv').config();
+require('colors');
 const axios = require('axios');
-const colors = require('colors');
 const { mkdirSync, copyFileSync, constants, writeFileSync } = require('fs');
 const [a, b, day] = process.argv;
 
