@@ -1,6 +1,5 @@
 const path = require('path');
 const { getInput, numArrayProduct, numArraySum, newLineString, validateAnswer, sortBy } = require('../../helpers');
-
 let myOutput;
 // ACTUAL
 let input = getInput(path.resolve(__dirname, './input.txt'));
@@ -25,7 +24,7 @@ let columns = transpose(input);
 columns = columns.map(col => {
     let parts = col.split('#');
     parts = parts.map(part => {
-        return part.split('').sort().reverse().join('');
+        return [...part].sort().reverse().join('');
     });
     return parts.join('#');
 });
